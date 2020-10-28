@@ -7,7 +7,7 @@ env:
 #    paths:
 #    - LibraQueueHandler/LibraQueueHandler/**
 
-on: [workflow_dispatch]
+on: [workflow_dispatch] 
 
 jobs:
   build-and-deploy:
