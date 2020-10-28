@@ -1,6 +1,6 @@
 name: Deploy Libra App
 env:
-   DEFAULT_LOCATION: northeurope
+   DEFAULT_LOCATION: northeurope 
    LIBRA_ALIAS: zaxlibra
 #on:
 #  push:
