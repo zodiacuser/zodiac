@@ -2,19 +2,19 @@
 
 export DEFAULT_LOCATION=northeurope
 export SIRMIONE_ALIAS=zaxsirmione
-export LIMONE_ALIAS=zaxlimone
-export SCORPIO_ALIAS=zaxscorpio
-export VIRGO_ALIAS=zaxvirgo
-export LIBRA_ALIAS=zaxlibra
-export ZODIAC_ALIAS=zaxzodiac
-export DB_ADMIN_USER=nick
+export LIMONE_ALIAS=cl123limone
+export SCORPIO_ALIAS=cl123scorpio
+export VIRGO_ALIAS=cl123virgo
+export LIBRA_ALIAS=cl123libra
+export ZODIAC_ALIAS=cl123zodiac
+export DB_ADMIN_USER=cl123
 export AAD_DOMAIN=xekina.onmicrosoft.com
 export AAD_TENANTID=3bc03625-3a0a-48c5-8aa5-12f22e401fff
 export AAD_CLIENTID=ccee7608-940c-42d9-ba86-a2845ef3a808
 export OUTPUT=json
 
 # Whatever you set zodiac instance to will be tagged onto your azure resources, and enable you to access all the different components as a cohesive set
-export ZODIAC_INSTANCE=ice_age
+export ZODIAC_INSTANCE=bp-lab
 
 echo "<h2>Environment Variables</h2>" >> deployment-log.html
 echo "<p>ZODIAC_INSTANCE:$ZODIAC_INSTANCE</p>" >> deployment-log.html
