@@ -1,7 +1,7 @@
 #!/bin/bash
 
 export DEFAULT_LOCATION=northeurope
-export SIRMIONE_ALIAS=zaxsirmione
+export SIRMIONE_ALIAS=cl123sirmione
 export LIMONE_ALIAS=cl123limone
 export SCORPIO_ALIAS=cl123scorpio
 export VIRGO_ALIAS=cl123virgo
